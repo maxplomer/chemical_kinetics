@@ -1,0 +1,5 @@
+octave /home/ubuntuuser/Desktop/fortran_freechemkin_dassl/run_reactor_adiabatic_constV.m
+
+
+remove all backup ~ files from folder
+rm -rf *~

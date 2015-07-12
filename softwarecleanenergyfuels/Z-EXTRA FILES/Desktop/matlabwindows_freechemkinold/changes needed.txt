@@ -1,0 +1,24 @@
+this backup is actually faster now
+
+kfarray using vector math is working but was slower now faster, need to try **global A B E
+
+and ***combine lines eliminate kf variable ***only use kfarray, to see if makes it faster
+
+
+check out how much getABE uses vs global ABE on matlabprofiler/optimizer
+
+maybe vectorize KC overall (extra work but faster because vectorized) (look at original code), or try the multiply-log thing again
+
+vectorize 3rd body (3rd body will complicate eliminating kf variable, if there is 3rd body can write kfarray(1)=kfarray(1)*(sumY+Y(1)*-1))
+
+
+
+
+
+
+
+
+
+
+
+
