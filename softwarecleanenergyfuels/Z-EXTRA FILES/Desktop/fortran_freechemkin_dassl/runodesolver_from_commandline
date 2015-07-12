@@ -1,5 +1,0 @@
-octave /home/ubuntuuser/Desktop/runodesolver.m
-
-
-remove all backup ~ files from folder
-rm -rf *~
