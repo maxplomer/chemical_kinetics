@@ -1,4 +1,5 @@
-#Chemical Kinetics Package (Chemkin programmed in Matlab)
+#Chemical Kinetics Package 
+##(Chemkin programmed in Matlab)
 
 Max Plomer created the Clean Fuel Chemical Kinetics software package in Matlab it helps to simplify the process of reading fuel mechanisms and creating the necessary functions to model reactors, such as calculating thermodynamic data and reaction  rates.
 
